@@ -34,7 +34,7 @@ Multinomial Naive Bayes
 13. Building Predictive system
 14. Model Improvement
 
-# Analysis Result:
+# Output:
 ![Email1](https://github.com/Navina-Murugadas/Email_Spam_Classifier_DS/assets/72821323/7447e577-cb2a-4368-aa9b-98be001c9af7)
 
 ![Email2](https://github.com/Navina-Murugadas/Email_Spam_Classifier_DS/assets/72821323/a1fe6d86-0ee5-4251-81f6-3594e1a34baa)
