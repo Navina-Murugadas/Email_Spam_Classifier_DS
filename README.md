@@ -12,6 +12,7 @@ Multinomial Naive Bayes
 5. Seaborn - Data Visualization
 6. SkLearn - Model Building
 7. Microsoft Excel
+8. Streamlit - Framework for Machine Learning and Data Science
 
 # Prerequisites:
 1. A prior knowledge of Python programming language along with its libraries for data science such as Numpy, Pandas, Matplotlib, Seaborn, SkLearn is needed.
